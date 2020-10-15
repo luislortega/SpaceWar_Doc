@@ -8,17 +8,23 @@ This is a totally private project, the copyright of this code belongs to GG Stud
 
 ## Technologie stack
 
-Client: GDScript, HTML5, JavaScript, CSS
+**Client:** GDScript, HTML5, JavaScript, CSS
 
-Backend: GoLang
+**Backend:** GoLang
 
-Database: MySql
+**Database:** MySql
 
 ## Naming conventions
+
+**Client and backend:**
 
 [Python](https://www.python.org/dev/peps/pep-0008/#naming-conventions)
 
 [GoLang](https://www.golangprograms.com/naming-conventions-for-golang-functions.html)
+
+**Database:**
+
+[MySql](https://anandarajpandey.com/2015/05/10/mysql-naming-coding-conventions-tips-on-mysql-database/)
 
 ## Version log
 

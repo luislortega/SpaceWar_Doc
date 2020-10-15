@@ -8,7 +8,7 @@ This is a totally private project, the copyright of this code belongs to GG Stud
 
 ## Naming conventions
 
-URL reference: [a link](https://www.python.org/dev/peps/pep-0008/#naming-conventions)
+[URL of naming python conventions](https://www.python.org/dev/peps/pep-0008/#naming-conventions)
 
 ## Version log
 

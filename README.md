@@ -18,7 +18,8 @@ Basic multiplayer, simply ships shown and can attack each other, with a semi-fun
 It only brings 3 maps for each company, unlimited ammunition, some NPC Streuners and Lordakias with basic rewards on the map, for now only the store, hangar and the start in the main player menu will work
 
 **Conceptual UI**
-<img src="https://github.com/luislortega/SpaceWar_Client/blob/main/screenshots/v002/Screenshot_1.jpg?raw=true" width="200">
+
+<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Client/main/screenshots/v002/Screenshot_1.jpg" width="200">
 
 ![alt text](https://github.com/luislortega/SpaceWar_Client/blob/main/screenshots/v002/Screenshot_1.jpg?raw=true){ width=250px }
 ![alt text](https://github.com/luislortega/SpaceWar_Client/blob/main/screenshots/v002/Screenshot_2.jpg?raw=true){ width=250px }

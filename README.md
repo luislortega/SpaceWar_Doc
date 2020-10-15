@@ -6,9 +6,18 @@ This is a totally private project, the copyright of this code belongs to GG Stud
 
 **Vision:** Create a new game concept based on DO, but with a plot twist in terms of events, community and teamwork, taking all the good of DO to create a solid community
 
+## Technologie stack
+
+Client: GDScript, HTML5, JavaScript, CSS
+
+Backend: GoLang
+
+Database: MySql
+
 ## Naming conventions
 
-[URL of naming python conventions](https://www.python.org/dev/peps/pep-0008/#naming-conventions)
+[Python](https://www.python.org/dev/peps/pep-0008/#naming-conventions)
+[GoLang](https://www.golangprograms.com/naming-conventions-for-golang-functions.html)
 
 ## Version log
 

@@ -10,4 +10,7 @@ This is a totally private project, the copyright of this code belongs to GG Stud
 
 **v.0.0.1** - Basic multiplayer, simply ships shown and can attack each other, with a semi-functional chat
 
+![alt text](https://github.com/luislortega/SpaceWar_Client/tree/main/screenshots/v001/Screenshot_1.jpg)
+![alt text](https://github.com/luislortega/SpaceWar_Client/tree/main/screenshots/v001/Screenshot_2.jpg)
+
 **v.0.0.2** - It only brings 3 maps for each company, unlimited ammunition, some NPC Streuners and Lordakias with basic rewards on the map, for now only the store, hangar and the start in the main player menu will work

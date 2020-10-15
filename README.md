@@ -6,15 +6,19 @@ This is a totally private project, the copyright of this code belongs to GG Stud
 
 **Vision:** Create a new game concept based on DO, but with a plot twist in terms of events, community and teamwork, taking all the good of DO to create a solid community
 
+## Naming conventions
+
+URL reference: [a link](https://www.python.org/dev/peps/pep-0008/#naming-conventions)
+
 ## Version log
 
-### v.0.0.1
+### => v.0.0.1
 Basic multiplayer, simply ships shown and can attack each other, with a semi-functional chat
 
 <img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Client/main/screenshots/v001/Screenshot_1.jpg" width="500">
 <img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Client/main/screenshots/v001/Screenshot_2.jpg" width="500">
 
-### v.0.0.2 (In development)
+### => v.0.0.2 (In development)
 It only brings 3 maps for each company, unlimited ammunition, some NPC Streuners and Lordakias with basic rewards on the map, for now only the store, hangar and the start in the main player menu will work
 
 **Conceptual UI**

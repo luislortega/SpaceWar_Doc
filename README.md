@@ -1,4 +1,4 @@
-# SpaceWar Client
+# SpaceWar | MMO of space action
 
 This is a totally private project, the copyright of this code belongs to GG Studios, some assets and UI concepts belong to the BigPoint company, for now it is a non-profit project.
 

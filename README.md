@@ -44,16 +44,16 @@ This is a totally private project, the copyright of this code belongs to GG Stud
 
 Basic multiplayer, simply ships shown and can attack each other, with a semi-functional chat
 
-<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Client/main/screenshots/v001/Screenshot_1.jpg" width="500">
-<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Client/main/screenshots/v001/Screenshot_2.jpg" width="500">
+<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v001/Screenshot_1.jpg" width="500">
+<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v001/Screenshot_2.jpg" width="500">
 
 ### => v.0.0.2
 
 Improvements in attacks, types of attacks, movements and better abstraction, it does not contain a connected database or functional socket.
 
-<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Client/main/screenshots/v002/Screenshot_1.jpg" width="500">
-<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Client/main/screenshots/v002/Screenshot_2.jpg" width="500">
-<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Client/main/screenshots/v002/Screenshot_3.jpg" width="500">
+<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v002/Screenshot_1.jpg" width="500">
+<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v002/Screenshot_2.jpg" width="500">
+<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v002/Screenshot_3.jpg" width="500">
 
 
 ### => v.0.0.3 (In development)
@@ -62,10 +62,10 @@ It will contain all the functionality of darkorbit 2009, except skylab, clans, a
 
 **Conceptual UI**
 
-<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Client/main/screenshots/v003/Screenshot_1.jpg" width="500">
-<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Client/main/screenshots/v003/Screenshot_2.jpg" width="500">
-<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Client/main/screenshots/v003/Screenshot_3.jpg" width="500">
-<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Client/main/screenshots/v003/Screenshot_4.jpg" width="500">
+<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_1.jpg" width="500">
+<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_2.jpg" width="500">
+<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_3.jpg" width="500">
+<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_4.jpg" width="500">
 
 **Class modeling**
 
@@ -73,12 +73,12 @@ To-do
 
 **Database modeling**
 
-<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Client/main/screenshots/v003/Screenshot_5.jpg" width="500">
+<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_5.jpg" width="500">
 
 **Database example data**
 
-<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Client/main/screenshots/v003/Screenshot_6.jpg" width="500">
-<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Client/main/screenshots/v003/Screenshot_7.jpg" width="500">
+<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_6.jpg" width="500">
+<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_7.jpg" width="500">
 
 **Socket architecture**
 

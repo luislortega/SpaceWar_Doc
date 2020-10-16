@@ -63,6 +63,31 @@ It will contain all the functionality of darkorbit 2009, except skylab, clans, a
 **Conceptual UI**
 
 <img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_1.jpg" width="500">
+
+player_id: int auto incrementable
+
+session_id: default null y el valor es generado por JWT
+
+info: la ultima ip que al inicio es la misma ip de registro y la fecha de registo
+
+server_id: default 1
+
+username: default null
+
+password: default null y debe estar encriptado por MD5
+
+email: default null
+
+data: default {"uridium":0,"credits":0,"honor":0,"experience":0,"jackpot":0}
+
+config default 1
+
+health default 0
+
+shield default {"firstConf":0, "secondConfg":0}
+
+
+
 <img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_2.jpg" width="500">
 <img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_3.jpg" width="500">
 <img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_4.jpg" width="500">

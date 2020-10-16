@@ -165,8 +165,33 @@ base_modules default []
 boosters default {}
 
 <img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_8.jpg" width="500">
+
+log_id int | auto increment
+
+killer_id | killer of the player
+
+target_id | victim of the killer
+
+date default now()
+
 <img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_9.jpg" width="500">
+
+player_id int 
+
+audio default {}
+
+quality default {}
+
+bound_keys default {}
+
+slotbar_items default {}
+
+slotbar_items_pro default {}
+
 <img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_10.jpg" width="500">
+
+npc_id int | auto increment
+
 <img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_11.jpg" width="500">
 <img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_12.jpg" width="500">
 <img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_13.jpg" width="500">

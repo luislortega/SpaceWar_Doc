@@ -144,13 +144,13 @@ old_pilot_name default []
 
 player_id int
 
-config_lasers default [[],[]] => el numero es basado en la posicion de items en esta misma tabla
+config_lasers default [[],[]] | the number is based on the position of items in this same table
 
-config_generators default [[],[]] => el numero es basado en la posicion de items en esta misma tabla
+config_generators default [[],[]] | the number is based on the position of items in this same table
 
-config_drones default [[],[]] => el numero es basado en la posicion de items en esta misma tabla
+config_drones default [[],[]] | the number is based on the position of items in this same table
 
-config_extras default [[],[]] => el numero es basado en la posicion de items en esta misma tabla
+config_extras default [[],[]] | the number is based on the position of items in this same table
 
 items default {"lf1Count":0, "lf2Count":0, "lf3Count": 0, "mp1Count":0,"a01Count":0, "a02Count":0, "bO1Count":0, "bO2Count":0, "1010Count":0, "2010Count":0, "3210Count":0, "3310Count":0, "6900Count":0, "7900Count":0, "geminex":0, "sl01Cpu":0, "sl02Cpu":0, "sl03Cpu":0, "clo4kCpu10":0, "clo4kCpu50":0, "rep1":0, "rep2":0, "rep3": 0, "rep4": 0, "rokt01":0, "ncrrbCpu":0, "sm01Cpu":0, "ish01Cpu":0, "rllb1Cpu":0, "hm7":0, ships":[], "designs":[], "skillTree":{"logdisks":0,"researchPoints":0,"resetCount":0}}
 

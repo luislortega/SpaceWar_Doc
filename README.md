@@ -45,16 +45,21 @@ It only brings 3 maps for each company, unlimited ammunition, some NPC Streuners
 <img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Client/main/screenshots/v002/Screenshot_4.jpg" width="500">
 
 **Class modeling**
+
 To-do
 
 **Database modeling**
+
 <img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Client/main/screenshots/v002/Screenshot_5.jpg" width="500">
 
 **Database example data**
+
 To-do
 
 **Socket architecture**
+
 To-do
 
 **API architecture**
+
 To-do

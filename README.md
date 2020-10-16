@@ -8,57 +8,76 @@ This is a totally private project, the copyright of this code belongs to GG Stud
 
 ## Technologie stack
 
-**FrontEnd:** Vue.JS (HTML5, JavaScript, CSS)
+**Frontend:** Vue.JS (HTML5, JavaScript, CSS)
 
 **Game client:** GDScript
 
-**BackEnd:** GoLang
+**Backend:** GoLang
 
 **Database:** MySql
 
 ## Naming conventions
 
-**Client and backend:**
+**Frontend:**
 
-[Python](https://www.python.org/dev/peps/pep-0008/#naming-conventions)
+[VueJS official](https://vuejs.org/v2/style-guide/)
 
-[GoLang](https://www.golangprograms.com/naming-conventions-for-golang-functions.html)
+[JavaScript AirBnB](https://github.com/airbnb/javascript)
+
+[CSS BEM](http://getbem.com/naming/)
+
+**Game client:** 
+
+[GDScript official](https://docs.godotengine.org/es/stable/getting_started/scripting/gdscript/gdscript_styleguide.html)
+
+**Backend:**
+
+[GoLang official](https://www.golangprograms.com/naming-conventions-for-golang-functions.html)
 
 **Database:**
 
-[MySql](https://anandarajpandey.com/2015/05/10/mysql-naming-coding-conventions-tips-on-mysql-database/)
+[MySql linux](https://anandarajpandey.com/2015/05/10/mysql-naming-coding-conventions-tips-on-mysql-database/)
 
 ## Version log
 
 ### => v.0.0.1
+
 Basic multiplayer, simply ships shown and can attack each other, with a semi-functional chat
 
 <img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Client/main/screenshots/v001/Screenshot_1.jpg" width="500">
 <img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Client/main/screenshots/v001/Screenshot_2.jpg" width="500">
 
-### => v.0.0.2 (In development)
-It only brings 3 maps for each company, unlimited ammunition, some NPC Streuners and Lordakias with basic rewards on the map, for now only the store, hangar and the start in the main player menu will work
+### => v.0.0.2
 
-**Conceptual UI**
+Improvements in attacks, types of attacks, movements and better abstraction, it does not contain a connected database or functional socket.
 
 <img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Client/main/screenshots/v002/Screenshot_1.jpg" width="500">
 <img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Client/main/screenshots/v002/Screenshot_2.jpg" width="500">
 <img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Client/main/screenshots/v002/Screenshot_3.jpg" width="500">
-<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Client/main/screenshots/v002/Screenshot_4.jpg" width="500">
+
+
+### => v.0.0.3 (In development)
+
+It will contain all the functionality of darkorbit 2009, except skylab, clans, auctions, general account settings, refinement of lasers or generators, bonus page, page to buy uridium, missions, without cubikones / npc with unique characteristics.
+
+**Conceptual UI**
+
+<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Client/main/screenshots/v003/Screenshot_1.jpg" width="500">
+<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Client/main/screenshots/v003/Screenshot_2.jpg" width="500">
+<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Client/main/screenshots/v003/Screenshot_3.jpg" width="500">
+<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Client/main/screenshots/v003/Screenshot_4.jpg" width="500">
 
 **Class modeling**
 
-To-do
+Improvements in attacks, types of attacks, movements and better abstraction, it does not contain a connected database or functional socket.
 
 **Database modeling**
 
-<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Client/main/screenshots/v002/Screenshot_5.jpg" width="500">
+<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Client/main/screenshots/v003/Screenshot_5.jpg" width="500">
 
 **Database example data**
 
-player
-
-<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Client/main/screenshots/v002/Screenshot_6.jpg" width="500">
+<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Client/main/screenshots/v003/Screenshot_6.jpg" width="500">
 
 **Socket architecture**
 

@@ -192,7 +192,42 @@ slotbar_items_pro default {}
 
 npc_id int | auto increment
 
+ship_id int | this is the reference to server_ship
+
+health | this change depending type of ship
+
+shield | this change depending type of ship
+
+position default {"x":0, "x":0} | random position in the map
+
+map_id int
+
 <img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_11.jpg" width="500">
+
+ship_id int | auto increment
+
+base_ship_id int
+
+loot_id | name of the sprite
+
+name | name of the ship
+
+health default 0 
+
+shield default 0 | for type NPC
+
+speed default 0
+
+lasers default 0 | laser slot of the ship (player)
+
+generators default 0 | generator slot of the ship (player)
+
+cargo default 0 | cargo of the ship (player)
+
+respawnable default false | for type NPC
+
+reward default {"Experience":0,"Honor":0,"Credits":0,"Uridium":0}
+
 <img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_12.jpg" width="500">
 <img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_13.jpg" width="500">
 <img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_14.jpg" width="500">

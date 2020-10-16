@@ -8,9 +8,11 @@ This is a totally private project, the copyright of this code belongs to GG Stud
 
 ## Technologie stack
 
-**Client:** GDScript, Vue.JS (HTML5, JavaScript, CSS)
+**FrontEnd:** Vue.JS (HTML5, JavaScript, CSS)
 
-**Backend:** GoLang
+**Game client:** GDScript
+
+**BackEnd:** GoLang
 
 **Database:** MySql
 
@@ -54,7 +56,9 @@ To-do
 
 **Database example data**
 
-To-do
+player
+
+<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Client/main/screenshots/v002/Screenshot_6.jpg" width="500">
 
 **Socket architecture**
 

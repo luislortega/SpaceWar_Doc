@@ -8,7 +8,7 @@ This is a totally private project, the copyright of this code belongs to GG Stud
 
 ## Technologie stack
 
-**Client:** GDScript, HTML5, JavaScript, CSS
+**Client:** GDScript, Vue.JS (HTML5, JavaScript, CSS)
 
 **Backend:** GoLang
 

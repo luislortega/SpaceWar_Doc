@@ -18,6 +18,10 @@ Special thanks to **s3kglitches** (YouTube) who provided me with many sprites fr
 
 **Database:** MySql
 
+## Documentation
+
+To-do...
+
 ## Naming conventions
 
 **Frontend:**
@@ -75,7 +79,7 @@ It will contain all the functionality of darkorbit 2009, except skylab, clans, a
 
 **Class modeling**
 
-To-do
+To-do...
 
 **Database modeling**
 
@@ -148,8 +152,8 @@ old_pilot_name default []
 
 **Socket architecture**
 
-To-do
+To-do...
 
 **API architecture**
 
-To-do
+To-do...

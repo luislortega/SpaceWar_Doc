@@ -229,8 +229,26 @@ respawnable default false | for type NPC
 reward default {"Experience":0,"Honor":0,"Credits":0,"Uridium":0}
 
 <img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_12.jpg" width="500">
+
+ban_id int | auto increment
+
+player_id | player that was banned
+
+ip varchar(30) 
+
+reason varchar(200) | need a good reason to make bans
+
+type int | 1 = chat ban, 2 = account ban, 3 = account permanent ban, 4 = ip ban
+
+duration int | in hours...
+
 <img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_13.jpg" width="500">
-<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_14.jpg" width="500">
+
+id int | auto increment
+
+player_id | id of the moderator...
+
+type | 1 = [kickchat, chatban, accountban, account-permanent-ban, ip-ban] 2 = [kickchat, chatban, accountban] 3 = [kickchat, chatban] 4 = just kickchat
 
 
 **Socket architecture**

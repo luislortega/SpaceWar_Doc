@@ -79,7 +79,7 @@ It will contain all the functionality of darkorbit 2009, except skylab, clans, a
 
 **Class modeling**
 
-To-do...
+<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_16.jpg" width="500">
 
 **Database modeling**
 

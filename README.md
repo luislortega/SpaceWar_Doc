@@ -18,7 +18,7 @@ Special thanks to **s3kglitches** (YouTube) who provided me with many sprites fr
 
 **Database:** MySql
 
-## Documentation
+## Documentation tools
 
 To-do...
 
@@ -141,6 +141,29 @@ old_pilot_name default []
 
 
 <img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_7.jpg" width="500">
+
+player_id int
+
+config_lasers default [[],[]] => el numero es basado en la posicion de items en esta misma tabla
+
+config_generators default [[],[]] => el numero es basado en la posicion de items en esta misma tabla
+
+config_drones default [[],[]] => el numero es basado en la posicion de items en esta misma tabla
+
+config_extras default [[],[]] => el numero es basado en la posicion de items en esta misma tabla
+
+items default {"lf1Count":0, "lf2Count":0, "lf3Count": 0, "mp1Count":0,"a01Count":0, "a02Count":0, "bO1Count":0, "bO2Count":0, "1010Count":0, "2010Count":0, "3210Count":0, "3310Count":0, "6900Count":0, "7900Count":0, "geminex":0, "sl01Cpu":0, "sl02Cpu":0, "sl03Cpu":0, "clo4kCpu10":0, "clo4kCpu50":0, "rep1":0, "rep2":0, "rep3": 0, "rep4": 0, "rokt01":0, "ncrrbCpu":0, "sm01Cpu":0, "ish01Cpu":0, "rllb1Cpu":0, "hm7":0, ships":[], "designs":[], "skillTree":{"logdisks":0,"researchPoints":0,"resetCount":0}}
+
+cargo default {"Prometium":0, "Endorium":0, "Terbium":0, "Prometid":0, "Duranium":0, "Xenomita":0, "Promerium":0, "Seprom":0}
+
+ammo default {"lcb10":0,"mcb25":0,"mcb50":0,"mcb100":0,"rsb75":0,"sab50":0,  "r310":0,"plt2026":0,"plt2021":0,"acm1":0,"eco10":0,"pem01":0}
+
+skill_points defualt {"engineering":0,"shieldEngineering":0,"detonation1":0,"detonation2":0,"heatseekingMissiles":0, "rocketFusion":0,"cruelty1":0,"cruelty2":0,"explosives":0,"luck1":0,"luck2":0}
+
+base_modules default []
+
+boosters default {}
+
 <img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_8.jpg" width="500">
 <img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_9.jpg" width="500">
 <img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_10.jpg" width="500">

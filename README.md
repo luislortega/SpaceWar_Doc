@@ -69,7 +69,7 @@ It will contain all the functionality of darkorbit 2009, except skylab, clans, a
 
 **Class modeling**
 
-Improvements in attacks, types of attacks, movements and better abstraction, it does not contain a connected database or functional socket.
+To-do
 
 **Database modeling**
 
@@ -78,6 +78,8 @@ Improvements in attacks, types of attacks, movements and better abstraction, it 
 **Database example data**
 
 <img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Client/main/screenshots/v003/Screenshot_6.jpg" width="500">
+<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Client/main/screenshots/v003/Screenshot_7.jpg" width="500">
+
 
 **Socket architecture**
 

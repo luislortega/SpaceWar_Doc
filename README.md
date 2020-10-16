@@ -2,7 +2,7 @@
 
 This is a totally private project, the copyright of this code belongs to GG Studios, some assets and UI concepts belong to the BigPoint company, for now it is a non-profit project.
 
-Special thanks to **s3kglitches** (YouTube) who provided me with many sprites from 2009, **TexterDo1** which provided me with the initial tools with the DeathSpaces 3D emulators, **ooscargerman** which gave me a lot of knowledge in cyber security for cloud servers, BotNet and DDoS attacks and how to protect myself from them.
+Special thanks to **s3kglitches** (YouTube) who provided me with many sprites from 2009, **TexterDo1** (GitHub) which provided me with the initial tools with the DeathSpaces 3D emulators, **ooscargerman** (GitHub) which gave me a lot of knowledge in cyber security for cloud servers, BotNet and DDoS attacks and how to protect myself from them.
 
 **Mission:** recreate a version of darkorbit based on 2009.
 

@@ -58,11 +58,30 @@ Improvements in attacks, types of attacks, movements and better abstraction, it 
 
 ### => v.0.0.3 (In development)
 
-It will contain all the functionality of darkorbit 2009, except skylab, clans, auctions, general account settings, refinement of lasers or generators, bonus page, page to buy uridium, missions, without cubikones / npc with unique characteristics.
+It will contain all the functionality of darkorbit 2009, except skylab, clans, auctions, general account settings, refinement of lasers or generators, bonus page, page to buy uridium, missions, without cubikones / npc with unique characteristics, only low maps will be available.
 
 **Conceptual UI**
 
 <img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_1.jpg" width="500">
+<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_2.jpg" width="500">
+<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_3.jpg" width="500">
+<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_4.jpg" width="500">
+
+**Available maps**
+
+<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_15.jpg" width="500">
+
+**Class modeling**
+
+To-do
+
+**Database modeling**
+
+<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_5.jpg" width="500">
+
+**Database example data**
+
+<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_6.jpg" width="500">
 
 player_id: int auto incrementable
 
@@ -86,23 +105,15 @@ health default 0
 
 shield default {"firstConf":0, "secondConfg":0}
 
+position: default {"x": 0, "y": 0} cambia dependiendo de la empresa que escoga
+
+map_id default 0 cambia dependiendo de la empresa 
+
+ship_id default 1
+
+current_config default 1
 
 
-<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_2.jpg" width="500">
-<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_3.jpg" width="500">
-<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_4.jpg" width="500">
-
-**Class modeling**
-
-To-do
-
-**Database modeling**
-
-<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_5.jpg" width="500">
-
-**Database example data**
-
-<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_6.jpg" width="500">
 <img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_7.jpg" width="500">
 <img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_8.jpg" width="500">
 <img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_9.jpg" width="500">

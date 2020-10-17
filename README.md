@@ -44,27 +44,8 @@ To-do...
 
 [MySql linux](https://anandarajpandey.com/2015/05/10/mysql-naming-coding-conventions-tips-on-mysql-database/)
 
-## Version log
 
-### => v.0.0.1
-
-Basic multiplayer, simply ships shown and can attack each other, with a semi-functional chat
-
-<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v001/Screenshot_1.jpg" width="500">
-<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v001/Screenshot_2.jpg" width="500">
-
-### => v.0.0.2
-
-Improvements in attacks, types of attacks, movements and better abstraction, it does not contain a connected database or functional socket.
-
-<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v002/Screenshot_1.jpg" width="500">
-<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v002/Screenshot_2.jpg" width="500">
-<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v002/Screenshot_3.jpg" width="500">
-
-
-### => v.0.0.3 (In development)
-
-It will contain all the functionality of darkorbit 2009, except skylab, clans, auctions, general account settings, refinement of lasers or generators, bonus page, page to buy uridium, missions, without cubikones / npc with unique characteristics, only low maps will be available.
+## UI
 
 **Conceptual UI**
 
@@ -77,9 +58,13 @@ It will contain all the functionality of darkorbit 2009, except skylab, clans, a
 
 <img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_15.jpg" width="500">
 
+## Models
+
 **Class modeling**
 
 <img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_16.jpg" width="500">
+
+<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_17.jpg" width="500">
 
 **Database modeling**
 
@@ -251,10 +236,24 @@ player_id | id of the moderator...
 type | 1 = [kickchat, chatban, accountban, account-permanent-ban, ip-ban] 2 = [kickchat, chatban, accountban] 3 = [kickchat, chatban] 4 = just kickchat
 
 
-**Socket architecture**
+## Version log
 
-To-do...
+### => v.0.0.1
 
-**API architecture**
+Basic multiplayer, simply ships shown and can attack each other, with a semi-functional chat
 
-To-do...
+<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v001/Screenshot_1.jpg" width="500">
+<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v001/Screenshot_2.jpg" width="500">
+
+### => v.0.0.2
+
+Improvements in attacks, types of attacks, movements and better abstraction, it does not contain a connected database or functional socket.
+
+<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v002/Screenshot_1.jpg" width="500">
+<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v002/Screenshot_2.jpg" width="500">
+<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v002/Screenshot_3.jpg" width="500">
+
+
+### => v.0.0.3 (In development)
+
+It will contain all the functionality of darkorbit 2009, except skylab, clans, auctions, general account settings, refinement of lasers or generators, bonus page, page to buy uridium, missions, without cubikones / npc with unique characteristics, only low maps will be available.

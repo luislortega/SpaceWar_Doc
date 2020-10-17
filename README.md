@@ -44,13 +44,25 @@ To-do...
 
 [MySql linux](https://anandarajpandey.com/2015/05/10/mysql-naming-coding-conventions-tips-on-mysql-database/)
 
-## Models
+## Concepts
 
-**Class modeling**
+Concept of the classes and endpoints of the project ... but this is not in detail.
+
+**Global architecture**
 
 <img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_16.jpg" width="500">
 
+**Client classes**
+
 <img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_17.jpg" width="500">
+
+**API endpoints and classes**
+
+To-do
+
+**Socket endpoints and classes**
+
+To-do
 
 **Database modeling**
 

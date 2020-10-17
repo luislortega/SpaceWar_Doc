@@ -44,20 +44,6 @@ To-do...
 
 [MySql linux](https://anandarajpandey.com/2015/05/10/mysql-naming-coding-conventions-tips-on-mysql-database/)
 
-
-## UI
-
-**Conceptual UI**
-
-<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_1.jpg" width="500">
-<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_2.jpg" width="500">
-<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_3.jpg" width="500">
-<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_4.jpg" width="500">
-
-**Available maps**
-
-<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_15.jpg" width="500">
-
 ## Models
 
 **Class modeling**
@@ -257,3 +243,14 @@ Improvements in attacks, types of attacks, movements and better abstraction, it 
 ### => v.0.0.3 (In development)
 
 It will contain all the functionality of darkorbit 2009, except skylab, clans, auctions, general account settings, refinement of lasers or generators, bonus page, page to buy uridium, missions, without cubikones / npc with unique characteristics, only low maps will be available.
+
+**Conceptual UI**
+
+<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_1.jpg" width="500">
+<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_2.jpg" width="500">
+<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_3.jpg" width="500">
+<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_4.jpg" width="500">
+
+**Available maps**
+
+<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_15.jpg" width="500">

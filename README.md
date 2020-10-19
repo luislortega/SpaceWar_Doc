@@ -8,7 +8,7 @@ Special thanks to **s3kglitches** (YouTube) who provided me with many sprites fr
 
 **Vision:** Create a new game concept based on DO, but with a plot twist in terms of events, community and teamwork, taking all the good of DO to create a solid community
 
-## Technologie stack
+## Tech stack
 
 **Frontend:** Vue.JS (HTML5, JavaScript, CSS)
 

@@ -58,7 +58,7 @@ Concept of the classes and endpoints of the project ... but this is not in detai
 
 **API endpoints and classes**
 
-To-do
+<img src="https://raw.githubusercontent.com/luislortega/SpaceWar_Doc/main/screenshots/v003/Screenshot_18.jpg" width="500">
 
 **Socket endpoints and classes**
 

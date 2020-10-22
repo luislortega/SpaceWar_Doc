@@ -18,6 +18,16 @@ Special thanks to **s3kglitches** (YouTube) who provided me with many sprites fr
 
 **Database:** MySql
 
+## Ports organization
+
+**Frontend:** 8080
+
+**MySql:** 30200
+
+**Backend:** 8082
+
+**Socket:** 8081
+
 ## Documentation tools
 
 To-do...
